@@ -1,0 +1,67 @@
+header{
+    color: LimeGreen;
+    background-color: White;
+    text-align: center;
+    padding: 8px;
+    font-style: oblique;
+    margin: auto;
+    background-image: url("Image/MinuPilt2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+footer{
+    color: Black;
+    background-color: Darkgray;
+    text-align: center;
+    padding: 2px;
+    margin: auto;
+}
+main section{
+    background-color: White;
+    color:Black;
+    margin: auto;
+    padding: 15px;
+
+
+
+}
+
+main section h2{
+    color: black;
+    font-variant: small-caps;
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding: revert;
+    overflow: hidden;
+    background-color: #848884;
+    margin: auto;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: LimeGreen;
+}
+.inline-items {
+    display: flex;
+    align-items: center;
+}
+
+.inline-items img {
+    margin-right: 5px;
+    width: 40px
+}
